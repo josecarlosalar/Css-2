@@ -1,0 +1,17 @@
+@import "temaB";
+.main {
+    padding: 50px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+    width: 100px;
+    height: 80px;
+}
+
+.box.shadow {
+    margin-top: 20px;
+}

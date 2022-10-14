@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Vadodara:wght@300&display=swap');
+.box {
+    border: 1px solid rgb(180, 160, 166);
+    border-radius: 2px;
+}
+
+.shadow {
+    box-shadow: -10px 10px 10px rgb(68, 68, 68);
+}
+
+.texto {
+    padding-left: 15px;
+    padding-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.principal-font {
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.secondary-font {
+    padding-top: 20px;
+    font-family: 'Hind Vadodara', sans-serif;
+}
+
+.base {
+    background-color: rgb(251, 13, 27);
+}
+
+.important {
+    background-color: rgb(101, 2, 5);
+}
+
+.warning {
+    background-color: rgb(254, 192, 206);
+}
